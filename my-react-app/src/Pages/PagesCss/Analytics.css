@@ -1,0 +1,58 @@
+.max_width {
+    max-width: 1320px;
+    margin: 0 auto;
+}
+.ana_img img {
+    width: 100%;
+}
+.ana_img {
+    max-width: 100%;
+}
+.cover_sections {
+    display: flex;
+    flex-direction: column;
+    min-height: 80vh;
+    justify-content: space-evenly;
+}
+.first_sec h4{
+    font-size: xx-large;
+    position: relative;
+    top: -15px;
+}
+.table_align{
+    width: 100%;
+}
+
+.td_align{
+    position: relative;
+    top: 1rem;
+}
+
+tr.tx_align th {
+    color: #808080;
+}
+span img {
+    width: 14%;
+    margin-right: 2rem;
+}
+.menu_align{
+    transform: translate(-166px, -56px)!important;
+    width: 15rem;
+    padding: 1rem;
+}
+.postion-top{
+    position: relative;
+    top: .4rem;
+}
+.fixed-td{
+    max-width: 5rem;
+    height: 4rem;
+}
+
+.fixed-td img{
+width: 29%;
+height:90%;
+}
+.text-aligns{
+max-width: 4rem;
+}
